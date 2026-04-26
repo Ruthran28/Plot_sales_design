@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Plot_sales_design/static/css/main.053eeaa3.css",
+    "main.js": "/Plot_sales_design/static/js/main.6d1393ba.js",
+    "static/js/453.e53cc446.chunk.js": "/Plot_sales_design/static/js/453.e53cc446.chunk.js",
+    "static/media/pic.png": "/Plot_sales_design/static/media/pic.04d489af93a039037620.png",
+    "static/media/location.png": "/Plot_sales_design/static/media/location.6a2bbad9bfa973c4fd97.png",
+    "static/media/map2.png": "/Plot_sales_design/static/media/map2.5b5e9118a7d44ac28ea3.png",
+    "static/media/room4.png": "/Plot_sales_design/static/media/room4.32a36fface1b167aab02.png",
+    "static/media/room1.png": "/Plot_sales_design/static/media/room1.eb04897448b17cacdef0.png",
+    "static/media/room3.png": "/Plot_sales_design/static/media/room3.d14ec7f57b05b0c7f3bb.png",
+    "static/media/parks.png": "/Plot_sales_design/static/media/parks.cf26ebbcb730336ea15d.png",
+    "static/media/room2.png": "/Plot_sales_design/static/media/room2.a09bbf8c83a30502b5da.png",
+    "static/media/room5.png": "/Plot_sales_design/static/media/room5.7315c470f0733e859b63.png",
+    "static/media/bg.webp": "/Plot_sales_design/static/media/bg.b1a5f28726d0a45dec01.webp",
+    "static/media/activities.png": "/Plot_sales_design/static/media/activities.cfc744e0d7f85ac6d930.png",
+    "index.html": "/Plot_sales_design/index.html",
+    "main.053eeaa3.css.map": "/Plot_sales_design/static/css/main.053eeaa3.css.map",
+    "main.6d1393ba.js.map": "/Plot_sales_design/static/js/main.6d1393ba.js.map",
+    "453.e53cc446.chunk.js.map": "/Plot_sales_design/static/js/453.e53cc446.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.053eeaa3.css",
+    "static/js/main.6d1393ba.js"
+  ]
+}

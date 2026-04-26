@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Plot_sales_design/static/css/main.053eeaa3.css",
+    "main.css": "/Plot_sales_design/static/css/main.4bd823fd.css",
     "main.js": "/Plot_sales_design/static/js/main.6d1393ba.js",
     "static/js/453.e53cc446.chunk.js": "/Plot_sales_design/static/js/453.e53cc446.chunk.js",
     "static/media/pic.png": "/Plot_sales_design/static/media/pic.04d489af93a039037620.png",
@@ -15,12 +15,12 @@
     "static/media/bg.webp": "/Plot_sales_design/static/media/bg.b1a5f28726d0a45dec01.webp",
     "static/media/activities.png": "/Plot_sales_design/static/media/activities.cfc744e0d7f85ac6d930.png",
     "index.html": "/Plot_sales_design/index.html",
-    "main.053eeaa3.css.map": "/Plot_sales_design/static/css/main.053eeaa3.css.map",
+    "main.4bd823fd.css.map": "/Plot_sales_design/static/css/main.4bd823fd.css.map",
     "main.6d1393ba.js.map": "/Plot_sales_design/static/js/main.6d1393ba.js.map",
     "453.e53cc446.chunk.js.map": "/Plot_sales_design/static/js/453.e53cc446.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.053eeaa3.css",
+    "static/css/main.4bd823fd.css",
     "static/js/main.6d1393ba.js"
   ]
 }
